@@ -1,5 +1,5 @@
 use rand::Rng;
-use std::{ io::{ stdin, Write }, thread, time };
+use std::{ io::{ Write }, thread, time };
 
 
 fn main() {
